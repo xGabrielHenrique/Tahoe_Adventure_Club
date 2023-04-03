@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(72, 72, 72);
+}
+
+.top {
+  text-align: center;
+  color: white;
+  border: 3px solid rgb(0, 174, 255);
+  background-image: url(img/12.png);
+  background-position: center center;
+  margin: 30px auto 30px auto;
+  padding: 12px 0px 12px 0px;
+  width: 80%;
+}
+
+.main-content {
+  border: 3px solid rgb(0, 174, 255);
+  background-color: white;
+  width: 80%;
+  margin: 30px auto 30px auto;
+}
+
+.img {
+  margin: 20px 20px 0px 20px;
+}
+
+.h3 {
+  background-color: rgb(0, 174, 255);
+  color: white;
+  width: 93.2%;
+  margin: 0px 0px 20px 20px;
+  padding: 15px;
+}
+
+.info {
+  margin: 0px 0px 20px 20px;
+}
+
+.link {
+  margin: 0px 0px 20px 20px;
+}
